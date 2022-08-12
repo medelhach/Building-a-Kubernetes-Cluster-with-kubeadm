@@ -1,4 +1,5 @@
-# I create three VMs on azure portal and this is the VM configuration 
+# Create virtual machines
+* I create three VMs on azure portal and this is the VM configuration 
 ```
 De base
 Abonnement
